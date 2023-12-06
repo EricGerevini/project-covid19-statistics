@@ -32,7 +32,7 @@ Certifique-se que o arquivo csv '202xxxxx_Casos-e-obitos-ESP.csv' esteja no mesm
 
 # Resultados
 
-Os resultados foram bastantes satisfatórios e próximos aos que são divulgados por grandes mídias. Infelizmente o modelo para o problema 4 fica fica impreciso conforme o caso se torna cada vez mais incomum (permutação das comorbidades).
+Os resultados foram bastante satisfatórios e próximos aos que são divulgados por grandes mídias. Infelizmente o modelo para o problema 4 fica fica impreciso conforme o caso se torna cada vez mais incomum (permutação das comorbidades).
 
 # Referências 
 
